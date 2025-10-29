@@ -1,7 +1,7 @@
 # Automotive Sales Insight Dashboard
 
 ![Sales Insight Dashboard](./SALES.png)
-![Sales Insight Dashboard](./SALES.png)
+![Sales Insight Dashboard](./SALES1.png)
 
 ## Project Overview
 
